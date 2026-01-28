@@ -103,4 +103,10 @@
   "optionalDependencies": {
     "bufferutil": "^4.0.8"
   }
+  "scripts": {
+  "dev": "ts-node-dev --respawn src/index.ts",
+  "build": "tsc -p .",
+  "test": "jest --coverage",
+  "lint": "eslint . --ext .ts"
+}
 }
