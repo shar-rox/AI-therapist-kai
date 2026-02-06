@@ -5,7 +5,6 @@ A simple TypeScript-based AI assistant prototype that simulates therapist-like c
 
 ## Demo
 - No hosted demo yet — run locally (instructions below).
-- Screenshot/GIF: add one here when available.
 
 ## Features
 - Conversational prompt management
